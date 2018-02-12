@@ -1,5 +1,5 @@
 
-From <https://roamgom.github.io/>
+From [https://roamgom.github.io/](https://roamgom.github.io/dev/bachbach/2018/02/11/How_to_Markdown_kr.html)
 
 # Markdown 작성하기
 
@@ -234,7 +234,7 @@ _생각한 것과 다르게 나오네요_ 🤔
 [^1]: 어때요
 [^2]: 참 쉽죠?
 
-※ 2018-02-12: Github README에서는 주석 처리가 잘 안되는 것 같네요. 자세한 결과는 [블로그](https://roamgom.github.io/)를 참고해 주세요.
+※ 2018-02-12: Github README에서는 주석 처리가 잘 안되는 것 같네요. 자세한 결과는 [블로그](https://roamgom.github.io/dev/bachbach/2018/02/11/How_to_Markdown_kr.html)를 참고해 주세요.
 
 
 <br><br>
